@@ -1,20 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚀 Last-Minute Life Saver
 
-# Run and deploy your AI Studio app
+**Last-Minute Life Saver** is an AI-powered productivity companion that helps students, professionals, and freelancers beat procrastination by planning, prioritizing, and completing tasks before deadlines are missed.
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/7f15eec8-f13f-43e6-bbc2-b2e12dfc6ec3
+* 🧠 AI-powered task analysis
+* ⚠️ Deadline risk prediction
+* 📋 Smart task breakdown
+* 🎯 Intelligent task prioritization
+* 📅 AI-generated schedules
+* ⏱️ Deep work guidance
+* 📊 Progress tracking
+* 🤖 AI productivity assistant
 
-## Run Locally
+## 🛠️ Tech Stack
 
-**Prerequisites:**  Node.js
+* React.js
+* Node.js & Express.js
+* MongoDB
+* Google Gemini API
+* Tailwind CSS
 
+## 🚀 Getting Started
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+git clone https://github.com/AnujKaririya/last_minute_life_saver.git
+cd last_minute_life_saver
+npm install
+npm run dev
+```
+
+## 💡 Motivation
+
+Unlike traditional reminder apps, Last-Minute Life Saver actively helps users take action by breaking down complex tasks, predicting deadline risks, and providing AI-powered guidance to improve productivity.
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
